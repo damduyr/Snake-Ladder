@@ -1,6 +1,7 @@
 # Snake-Ladder
 
-It is a Traditional Snake and Ladder Game made using Python Language.
+A simple traditional Snake and Ladder game made using Python.
+Tkinter Library was used to make the GUI. The objective of the game is to navigate one's game piece, according to die rolls, from the start (bottom square) to the finish (top square), helped or hindered by ladders and snakes respectively.
 
 ![WhatsApp Image 2024-06-08 at 01 15 21_31d2a4a4](https://github.com/damduyr/Snake-Ladder/assets/114305300/119bca95-2e3e-48d5-9ea3-42971ff538c6)
 
